@@ -1,5 +1,6 @@
-| 1999 | OSDI                                | Practical Byzantine Fault Tolerance                                                                 |
+| Year | Published                           | Paper                                                                                               |
 | ---- | ----------------------------------- | --------------------------------------------------------------------------------------------------- |
+| 1999 | OSDI                                | Practical Byzantine Fault Tolerance                                                                 |
 | 2000 | OSDI                                | Proactive Recovery in a Byzantine-Fault-Tolerant System                                             |
 | 2000 | DSN                                 | From crash fault-tolerance to arbitrary-fault tolerance: Towards a modular approach                 |
 | 2001 | DSN                                 | Byzantine Fault Tolerance Can Be Fast                                                               |
