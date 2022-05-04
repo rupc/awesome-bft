@@ -1,3 +1,5 @@
+Note that papers in the table are mainly from system and security conferences/journal, a few from theory/algorithm-focused conference.
+
 | Year | Published         | Paper                                                                                               | Code             |
 | ---- | ----------------- | --------------------------------------------------------------------------------------------------- | ---------------- |
 | 1999 | OSDI              | Practical Byzantine Fault Tolerance                                                                 | PBFT             |
